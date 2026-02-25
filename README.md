@@ -12,12 +12,11 @@
 
 ---
 
-### Projects
+### Personal Builds
 
 - **[Miror](https://github.com/malikrohail/mirror)** — AI-powered usability testing platform
 - **[elo100](https://github.com/xmeir-dev/elo100)** — AI Chess Stats — Analyze your Chess.com games with AI
 - **[NuNotes](https://github.com/xmeir-dev/NuNotes)** — Lightweight AI note-taking and task manager for capturing ideas and streamlining daily workflow
-- **Edena** — AI tool that reviews startup pitch decks, extracts data points, and organizes them into structured insights
 - **[Agent Skills](https://github.com/xmeir-dev/skills)** — A collection of agent skills for coding assistants
 - **[Hackathon Idea Helper](https://github.com/xmeir-dev/hackathon-idea-helper)** — Quick tool for generating and refining hackathon ideas
 
