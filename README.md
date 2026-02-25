@@ -14,7 +14,7 @@
 
 ### Projects
 
-- **[Mirror](https://github.com/malikrohail/mirror)** — AI-powered usability testing platform
+- **[Miror](https://github.com/malikrohail/mirror)** — AI-powered usability testing platform
 - **[elo100](https://github.com/xmeir-dev/elo100)** — AI Chess Stats — Analyze your Chess.com games with AI
 - **[NuNotes](https://github.com/xmeir-dev/NuNotes)** — Lightweight AI note-taking and task manager for capturing ideas and streamlining daily workflow
 - **Edena** — AI tool that reviews startup pitch decks, extracts data points, and organizes them into structured insights
